@@ -6,7 +6,7 @@
 
 ## Referencias
 
-[información sobre chocolatey](https://ciberninjas.com/chocolatey/#%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-%C2%BFQue-es-Chocolatey)
+[Información sobre chocolatey](https://ciberninjas.com/chocolatey/#%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-%C2%BFQue-es-Chocolatey)
 
 [Instalación](https://chocolatey.org/install)
 
